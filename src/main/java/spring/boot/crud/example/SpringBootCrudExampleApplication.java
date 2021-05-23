@@ -19,6 +19,8 @@ public class SpringBootCrudExampleApplication {
 
 		ConsoleHandler handler = new ConsoleHandler();
 
+
+
 		LogFormatter formatter = new LogFormatter();
 		handler.setFormatter(formatter);
 
